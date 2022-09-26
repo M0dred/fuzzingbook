@@ -101,3 +101,7 @@ notebooks/CISPACourse.ipynb
 notebooks/BugBoard.ipynb
 notebooks/Todos.ipynb
 notebooks/SimpleGrammarMiner.ipynb
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
